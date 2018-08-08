@@ -1,0 +1,17 @@
+{
+  "name": "logwork-orange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Thomas Kurz",
+  "license": "ISC",
+  "dependencies": {
+    "fuzzy": "^0.1.3",
+    "inquirer": "^6.0.0",
+    "inquirer-autocomplete-prompt": "^0.12.2",
+    "minimist": "^1.2.0",
+    "moment": "^2.22.2",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
